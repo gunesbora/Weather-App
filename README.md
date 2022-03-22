@@ -14,4 +14,4 @@ User story;
 
   ### Links
 
-Live Site URL:  
+Live Site URL:  https://gunesbora.github.io/Weather-App/
